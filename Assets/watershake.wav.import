@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/watershake.wav-29b42d5cadd645282a01abe552b6e597.sample"
+
+[deps]
+
+source_file="res://Assets/watershake.wav"
+dest_files=[ "res://.import/watershake.wav-29b42d5cadd645282a01abe552b6e597.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
